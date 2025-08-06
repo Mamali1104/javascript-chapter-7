@@ -1,0 +1,1 @@
+activites of javascipt
